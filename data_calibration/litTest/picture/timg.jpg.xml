@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>VOC2012</folder>
+    <size>
+        <width>512</width>
+        <height>51</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>vehicle</name>
+        <bndbox>
+            <xmin>159</xmin>
+            <ymin>61</ymin>
+            <xmax>267</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>
+</annotation>
