@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\projects\git\vs\mydemo\littest\main.cpp(45): warning C4129: “.”: 不可识别的字符转义序列
+  litTest.vcxproj -> C:\Users\Administrator\Projects\git\vs\MyDemo\Debug\litTest.exe
+  litTest.vcxproj -> C:\Users\Administrator\Projects\git\vs\MyDemo\Debug\litTest.pdb (Partial PDB)
